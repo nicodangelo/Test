@@ -1,0 +1,2 @@
+I am sam and I like Ham
+This is my first commit
