@@ -1,3 +1,3 @@
 # Test
 This is my first online commit
-THis read me is for my test folder
+This read me is for my test folder
